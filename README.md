@@ -1,7 +1,7 @@
 # cloud-detection-portfolio
 Cloud detection engineering portfolio — Microsoft Sentinel/KQL detections, Sigma rules, SOC automation, and DFIR-based detections.
 # Cloud Detection Engineering Portfolio
-Detection engineering and SOC automation work by **Syed Soel Hossain** — SOC L3 → Cloud Detection SOC Engineer.
+Detection engineering and SOC automation work by a Cloud Detection SOC Engineer.
 
 ## Contents
 - **/sentinel-detections** — Microsoft Sentinel analytics rules (KQL) for cloud ATT&CK techniques
