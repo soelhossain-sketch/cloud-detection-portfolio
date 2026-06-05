@@ -13,6 +13,6 @@ Detection engineering and SOC automation work by a Cloud Detection SOC Engineer.
 
 ## About
 Skills: SIEM detection engineering, KQL, Sigma, threat hunting, incident response, SOC automation.
-Certifications: CEH, CHFI, CSA (CCDL2 & SC-200 in progress).
+
 
 _Work in progress — updated as I build._
