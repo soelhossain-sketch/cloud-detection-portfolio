@@ -2,8 +2,7 @@
 
 Detection engineering and SOC automation work by **Syed Soel Hossain** — SOC L3 Team Lead transitioning to Cloud Detection SOC Engineer.
 
-📍 Howrah, India · [LinkedIn](www.linkedin.com/in/soel-hossain-0396541b8) · soelhossain@gmail.com
-
+📍 Howrah, India · [LinkedIn](www.linkedin.com/in/soel-hossain-0396541b8) 
 ## Contents
 - **/sentinel-detections** — Microsoft Sentinel analytics rules (KQL) for cloud ATT&CK techniques
 - **/sigma-rules** — portable detection-as-code rules, mapped to MITRE ATT&CK
